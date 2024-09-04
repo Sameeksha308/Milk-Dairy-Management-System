@@ -1,3 +1,3 @@
 # Milk-Dairy-Management-System
 
-This a DBMS based project 
+This  is a DBMS based project 
